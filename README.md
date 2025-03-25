@@ -2,7 +2,7 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Open Issues](https://img.shields.io/github/issues-raw/h-ashraf/PacketSniffer)](https://github.com/yourusername/PacketSniffer-X/issues)
+[![Open Issues](https://img.shields.io/github/issues-raw/h-ashraf/PacketSniffer)](https://github.com/h-ashraf/PacketSniffer/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 A professional network packet analysis tool with real-time intrusion detection capabilities.
